@@ -75,10 +75,12 @@ right: 10px;
 
 .kopje{
     font-size: 5vh;
+    font-family: 'hey-comic';
 }
 
 .zin{
     font-size: 2vh;
+    font-family: 'hey-comic';
 }
 
 .medewerker-portret{
@@ -87,6 +89,7 @@ right: 10px;
 
 .portrettekst{
     font-size: 2vh;
+    font-family: 'hey-comic';
 }
 
 #woopportret{
@@ -100,3 +103,8 @@ right: 10px;
     margin-left: 10%;
     margin-top: -2.5%;
 }
+
+.dropdowntext{
+    font-family: 'hey-comic';
+}
+

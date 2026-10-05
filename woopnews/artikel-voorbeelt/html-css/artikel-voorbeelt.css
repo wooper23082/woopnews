@@ -85,10 +85,41 @@ right: 10px;
     width: 80vh;
     height: 40vh;
     margin-top: 5vh;
-    margin-left: 5vh;
+    margin-left: 5vw;
 }
 
 .head-text{
-    margin-left: 1vh;
+    margin-left: 6vw;
+    font-family: 'hey-comic';
+    font-size: 5vh;
+    margin-bottom: -2vh;
+}
+
+.pfp{
+    height: 3vh;
+    position: static;
+
+}
+
+.auteur-text{
+    margin-left: 7vw;
+    font-family: 'hey-comic';
+    font-size: 2vh;
+}
+
+.body-text{
+    margin-left: 6vw;
+    margin-right: 50vw;
     font-family: 'hey-comic';
 }
+
+.datum{
+    margin-left: 10vw;
+    font-family: 'hey-comic';
+    font-size: 1.3vh;
+}
+
+.dropdowntext{
+    font-family: 'hey-comic';
+}
+

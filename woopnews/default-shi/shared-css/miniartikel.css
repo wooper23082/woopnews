@@ -1,0 +1,47 @@
+.miniartikelfoto1{
+    width: 20vw;
+    position: absolute;
+    right: 10vw;
+    top: 20vh;
+}
+
+.miniartikeltekst1{
+    font-family: 'hey-comic';
+    font-size: 3vh;
+    position: absolute;
+    right: 19vw;
+    top: 38vh;
+    color: black;
+}
+
+.miniartikelfoto2{
+    width: 20vw;
+    position: absolute;
+    right: 10vw;
+    top: 50vh;
+}
+
+.miniartikeltekst2{
+    font-family: 'hey-comic';
+    font-size: 3vh;
+    position: absolute;
+    right: 19vw;
+    top: 68vh;
+    color: black;
+}
+
+.miniartikelfoto3{
+    width: 20vw;
+    position: absolute;
+    right: 10vw;
+    top: 80vh;
+}
+
+.miniartikeltekst3{
+    font-family: 'hey-comic';
+    font-size: 3vh;
+    position: absolute;
+    right: 19vw;
+    top: 98vh;
+    color: black;
+}
